@@ -1,6 +1,6 @@
 # 🐍 Python Type Conversion Assignment Basics
 
-This repository contains solutions for fundamental Python data type conversion tasks. It's part of a beginner-level Python programming course, designed to help new learners understand how to convert between various data types in Python effectively.
+This repository contains solutions for fundamental Python data type conversion tasks. It's part of a beginner-level Python programming course designed to help new learners effectively convert between various data types in Python.
 
 ---
 
@@ -28,12 +28,6 @@ Each question is implemented with simple, readable Python code and clear output 
 - GitHub for version control and sharing  
 
 ---
-
-## 🚀 How to Run
-
-1. Clone this repository or download the `.ipynb` file.
-2. Open the file in **Jupyter Notebook**, **Google Colab**, or **VS Code with Python extension**.
-3. Run each cell to see the output for type conversions.
 
 ## 🙋‍♂️ Author
 
