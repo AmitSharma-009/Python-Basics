@@ -1,6 +1,6 @@
 # 🐍 Python Operators Assignment
 
-This repository contains well-organized solutions for practicing **Python operators**, an essential part of any Python beginner's learning path. These examples are part of a **Data Science With Generative AI** course and provide hands-on experience with all major operator categories in Python.
+This repository contains well-organized solutions for practicing **Python operators**, an essential part of any Python beginner's learning path.
 
 ---
 
@@ -29,20 +29,6 @@ This repository contains well-organized solutions for practicing **Python operat
 
 ---
 
-## 📁 Folder Structure
-
-```
-python-operators-assignment/
-│
-├── python_operators_assignment.ipynb   # Jupyter Notebook with all operator tasks
-├── outputs/                            # (Optional) Screenshots of outputs
-│   ├── task1_output.png
-│   ├── task2_output.png
-│   └── ...
-```
-
----
-
 ## ✅ Technologies Used
 
 - Python 3.x  
@@ -56,14 +42,6 @@ python-operators-assignment/
 1. Clone or download the repository.
 2. Open the `.ipynb` notebook in **Jupyter Notebook**, **Google Colab**, or **VS Code**.
 3. Run each cell to view the output and understand operator behavior.
-
----
-
-## 🔍 Keywords for SEO
-
-`python operators` · `python assignment examples` · `bitwise operators in python` · `logical and comparison operators` · `python ternary operator` · `beginner python tasks`
-
----
 
 ## 🙋‍♂️ Author
 
