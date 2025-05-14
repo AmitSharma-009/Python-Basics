@@ -20,20 +20,6 @@ Each question is implemented with simple, readable Python code and clear output 
 
 ---
 
-## 📁 Folder Structure
-
-```
-python-type-conversion-assignment-basics/
-│
-├── python_type_conversion.ipynb   # Jupyter Notebook with all answers
-├── outputs/                       # (Optional) Screenshots of code outputs
-│   ├── q1_output.png
-│   ├── q2_output.png
-│   └── ...
-```
-
----
-
 ## ✅ Technologies Used
 
 - Python 3.x  
