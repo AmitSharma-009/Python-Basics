@@ -1,6 +1,6 @@
 # 🔁 Python Loops Assignment (While & For)
 
-This repository contains beginner-friendly Python examples using **while** and **for** loops. These exercises are designed to help learners understand the basics of iteration, control flow, and nested loops—especially in the context of data science, automation, and real-world logic building.
+This repository contains beginner-friendly Python examples using **while** and **for** loops.
 
 ---
 
@@ -17,15 +17,6 @@ Each problem includes a simple and clear Python solution with well-formatted out
 
 ---
 
-## 📁 Folder Structure
-
-```
-python-loops-assignment/
-│
-├── python_loops_assignment.ipynb   # Main Jupyter Notebook
-├── outputs/                        # (Optional) Screenshots of outputs
-```
-
 ---
 
 ## ✅ Technologies Used
@@ -34,20 +25,6 @@ python-loops-assignment/
 - Jupyter Notebook  
 - Markdown  
 - Git & GitHub  
-
----
-
-## 🚀 How to Use
-
-1. Clone the repository or download the `.ipynb` file.
-2. Open it with **Jupyter Notebook**, **Google Colab**, or **VS Code with Jupyter extension**.
-3. Run each code cell to explore loop logic in action.
-
----
-
-## 🔍 SEO Keywords
-
-`python while loop examples` · `python for loop practice` · `python nested loops assignment` · `beginner python loops` · `multiplication table in python` · `factorial using loop python`
 
 ---
 
