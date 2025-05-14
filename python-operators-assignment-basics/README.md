@@ -37,12 +37,6 @@ This repository contains well-organized solutions for practicing **Python operat
 
 ---
 
-## 🚀 How to Use
-
-1. Clone or download the repository.
-2. Open the `.ipynb` notebook in **Jupyter Notebook**, **Google Colab**, or **VS Code**.
-3. Run each cell to view the output and understand operator behavior.
-
 ## 🙋‍♂️ Author
 
 **Amit Sharma**  
