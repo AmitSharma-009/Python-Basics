@@ -35,14 +35,6 @@ Each question is implemented with simple, readable Python code and clear output 
 2. Open the file in **Jupyter Notebook**, **Google Colab**, or **VS Code with Python extension**.
 3. Run each cell to see the output for type conversions.
 
----
-
-## 🔗 Related Keywords
-
-`python type conversion` · `python data types` · `casting in python` · `beginner python assignment` · `python practice`
-
----
-
 ## 🙋‍♂️ Author
 
 **Amit Sharma**  
