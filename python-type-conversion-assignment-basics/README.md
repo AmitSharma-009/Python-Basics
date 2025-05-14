@@ -1,6 +1,6 @@
 # 🐍 Python Type Conversion Assignment Basics
 
-This repository contains solutions for fundamental Python data type conversion tasks. It's part of a beginner-level Python programming course designed to help new learners effectively convert between various data types in Python.
+This repository contains solutions for fundamental Python data type conversion tasks.
 
 ---
 
