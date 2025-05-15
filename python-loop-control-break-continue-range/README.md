@@ -1,6 +1,6 @@
 # 🔁 Python Assignment: Break, Continue & Range Function
 
-This repository contains beginner-level Python programs demonstrating the use of `break`, `continue`, and `range()` functions—essential control flow tools in Python programming. Ideal for students and aspiring data analysts learning structured programming concepts.
+This repository contains beginner-level Python programs demonstrating the use of `break`, `continue`, and `range()` functions—essential control flow tools in Python programming.
 
 ---
 
@@ -15,37 +15,12 @@ This repository contains beginner-level Python programs demonstrating the use of
 
 ---
 
-## 📁 Folder Structure
-
-```
-python-break-continue-range-assignment/
-│
-├── python_break_continue_range_assignment.ipynb   # Main Jupyter Notebook
-├── outputs/                                       # (Optional) Output screenshots
-```
-
----
-
 ## ✅ Technologies Used
 
 - Python 3.x  
 - Jupyter Notebook  
 - Markdown for documentation  
 - Git & GitHub for version control  
-
----
-
-## 🚀 How to Use
-
-1. Clone this repository or download the `.ipynb` file.
-2. Open it in **Jupyter Notebook**, **Google Colab**, or **VS Code**.
-3. Run each cell to explore loop control using break, continue, and range.
-
----
-
-## 🔍 SEO Keywords
-
-`python break statement examples` · `python continue loop demo` · `python range function tutorial` · `while loop skip values python` · `control flow python basics` · `beginner python assignments`
 
 ---
 
